@@ -66,6 +66,10 @@ h2 {
   height: 200px;
 }
 
+.pro {
+  padding-top: 15px;
+}
+
 #pro {
   height: 50%;
 }
@@ -77,4 +81,8 @@ h2 {
 #bubble {
   width: 450px;
   height: 300px;
+}
+
+#text {
+  width: 100%;
 }
