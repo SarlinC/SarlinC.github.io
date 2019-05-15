@@ -1,0 +1,80 @@
+header {
+  min-height: 127px;
+  margin-bottom: 40px;
+}
+
+#wrapper {
+  max-width: 970px;
+}
+.profile-title {
+  display: inline-block;
+  width: 150px;
+  margin-bottom: 8px;
+}
+
+.profile-desc {
+  display: inline-block;
+  color: #848484;
+  margin-bottom: 8px;
+}
+
+.social-icons li {
+  display: inline-block;
+  padding: 0px 9px;
+}
+
+.row {
+  margin-bottom: 0px;
+}
+
+img.avatar {
+  margin-top: 20px;
+}
+
+.info ul {
+  display: inline-block;
+  text-align: left;
+}
+
+h1 {
+  font-size: 42px;
+  line-height: 42px;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 35px;
+}
+.info p {
+  font-size: 16px;
+  line-height: 25px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 20px !important;
+}
+
+.interests > div {
+  padding: 0px 5px;
+}
+
+.card {
+  margin-top: 5%;
+}
+
+.project {
+  width: 200px;
+  height: 200px;
+}
+
+#pro {
+  height: 50%;
+}
+
+.collapsible-body {
+  background-color: white;
+}
+
+#bubble {
+  width: 450px;
+  height: 300px;
+}
