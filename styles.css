@@ -3,7 +3,7 @@ header {
   margin-bottom: 40px;
 }
 
-#wrapper {
+.wrapper {
   max-width: 970px;
 }
 .profile-title {
@@ -68,6 +68,7 @@ h2 {
 
 .pro {
   padding-top: 15px;
+  height: 50%;
 }
 
 #pro {
@@ -78,11 +79,11 @@ h2 {
   background-color: white;
 }
 
-#bubble {
+.bubble {
   width: 45%;
   height: 30%;
 }
 
-#text {
+.text {
   width: 100%;
 }
