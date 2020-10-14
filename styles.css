@@ -29,6 +29,11 @@ header {
 
 img.avatar {
   margin-top: 20px;
+  width: 50%;
+}
+
+#linkedin {
+  width: 10%;
 }
 
 .info ul {
